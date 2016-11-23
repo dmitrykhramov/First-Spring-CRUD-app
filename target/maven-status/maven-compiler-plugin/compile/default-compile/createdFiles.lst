@@ -1,0 +1,6 @@
+com\khramov\users\service\UserServiceImpl.class
+com\khramov\users\dao\UserDao.class
+com\khramov\users\dao\UserDaoImpl.class
+com\khramov\users\service\UserService.class
+com\khramov\users\model\User.class
+com\khramov\users\controller\UserController.class
